@@ -1,0 +1,6 @@
+name: ServerLocker
+version: '1.0'
+main: me.namecheap.serverLocker.ServerLocker
+api-version: '1.21'
+load: STARTUP
+authors: [ Namecheap ]
